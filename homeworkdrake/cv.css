@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 20px;
+    line-height: 1;
+}
+
+
+.respon {
+    color: green;
+    font-size: medium;
+}
+
+
+.skills {
+    color: green;
+    font-size: medium;
+}
+
+.edu {
+    color: green;
+    font-size: medium;
+}
+.place1  {
+    color: rgb(74, 129, 218);
+    font-size: medium;}
+
+.experience {
+    color: green;
+    font-size: medium;}
+.place2 {
+    color: rgb(74, 129, 218);
+    font-size: medium;
+}
